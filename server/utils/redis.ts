@@ -3,12 +3,9 @@ import { createClient } from "redis"
 
 let redisClient: RedisClientType | null = null
 
-/**
- * TTL constants (in seconds).
- */
-export const CacheTTL = {
-  SHORT: 300, // 5 minutes
-  LONG: 600, // 10 minutes
+export const CACHE_TTL = {
+  SHORT: 60, // 1 minute
+  LONG: 300, // 5 minutes
 } as const
 
 /**
