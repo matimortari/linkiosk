@@ -54,7 +54,7 @@
             </div>
           </div>
 
-          <div class="absolute -bottom-3 -left-10 navigation-group gap-1.5 rounded-full border bg-card px-3 py-1.5 whitespace-nowrap shadow-sm" style="z-index: 10;">
+          <div class="-right-10 -bottom-3 navigation-group hidden gap-1.5 rounded-full border bg-card px-3 py-1.5 whitespace-nowrap shadow-sm md:absolute" style="z-index: 10;">
             <icon name="mdi:link-variant" size="20" class="text-primary" />
             <span class="text-xs font-medium">linkiosk.app/alexjohnson</span>
           </div>
@@ -141,12 +141,11 @@
     </div>
   </section>
 
-  <section id="cta" class="relative z-10 flex min-h-[50vh] w-full flex-col items-center justify-center gap-8 overflow-hidden border-t bg-card px-12 py-24 text-center">
+  <section id="cta" class="relative z-10 flex min-h-[50vh] w-full flex-col items-center justify-center gap-8 overflow-hidden border-t bg-card px-12 py-32 text-center">
     <div class="cta-wrapper-grid" />
     <div class="cta-wrapper-vignette" />
 
     <div class="flex flex-col items-center gap-4">
-      <span class="section-badge border-secondary! bg-secondary/10! text-secondary!">Get Started</span>
       <h2>
         Ready to Build Your Page?
       </h2>
@@ -180,7 +179,7 @@ definePageMeta({
 <style scoped>
 h1 {
   font-family: var(--font-display);
-  line-height: 4rem;
+  line-height: 3rem;
   max-width: 30rem;
 }
 h2 {
@@ -189,6 +188,7 @@ h2 {
 }
 @media (min-width: 768px) {
   h1 {
+    line-height: 3.875rem;
     font-size: 3.5rem;
   }
 }
