@@ -3,12 +3,12 @@
     <img src="public/logo-light.png" alt="Logo" width="300"/>
 </h1>
 
-[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=matimortari_linkiosk&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=matimortari_linkiosk)
-[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=matimortari_linkiosk&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=matimortari_linkiosk)
-[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=matimortari_linkiosk&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=matimortari_linkiosk)
+[![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=matimortari_linkiwi&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=matimortari_linkiwi)
+[![Vulnerabilities](https://sonarcloud.io/api/project_badges/measure?project=matimortari_linkiwi&metric=vulnerabilities)](https://sonarcloud.io/summary/new_code?id=matimortari_linkiwi)
+[![Lines of Code](https://sonarcloud.io/api/project_badges/measure?project=matimortari_linkiwi&metric=ncloc)](https://sonarcloud.io/summary/new_code?id=matimortari_linkiwi)
 [![MIT License](https://img.shields.io/badge/License-MIT-blue.svg?style=flat&colorA=0d1117)](https://opensource.org/licenses/MIT)
 
-[**LinKiosk**](https://linkiosk.up.railway.app) is a landing page builder that allows users and businesses to centralize and share their links and online presence in one place. It offers various customization options, link management, and profile analytics.
+[**LinKiwi**](https://linkiwi.up.railway.app) is a landing page builder that allows users and businesses to centralize and share their links and online presence in one place. It offers various customization options, link management, and profile analytics.
 
 </div>
 
